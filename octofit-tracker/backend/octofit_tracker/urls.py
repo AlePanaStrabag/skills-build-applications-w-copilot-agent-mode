@@ -1,3 +1,11 @@
+"""
+API endpoints:
+- https://CODESPACE_NAME-8000.app.github.dev/api/users/
+- https://CODESPACE_NAME-8000.app.github.dev/api/teams/
+- https://CODESPACE_NAME-8000.app.github.dev/api/activities/
+- https://CODESPACE_NAME-8000.app.github.dev/api/leaderboard/
+- https://CODESPACE_NAME-8000.app.github.dev/api/workouts/
+"""
 """octofit_tracker URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
